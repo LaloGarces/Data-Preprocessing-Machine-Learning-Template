@@ -1,6 +1,6 @@
 # Data Preprocessing Machine Learning Template
 
-## This is a Colab Template to be used as Data Preprocessing step before apply any ML Model. Within the Notebook, you will find the explanation and details of the “Why” of these steps presented in this template.
+## This is a Colab Template to be used as Data Preprocessing step before apply any ML Model. Within the Notebook, you will find the explanation and details of the “Why” of these steps presented on this template.
 
 ### In this template, we present this 5 essential preprocessing steps: 
 
@@ -12,3 +12,12 @@
  - Feature Scaling
  
 ### Importing libraries
+
+'''
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import sklearn as sk
+
+'''
