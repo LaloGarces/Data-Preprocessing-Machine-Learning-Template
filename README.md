@@ -4,6 +4,6 @@
 
 ### In this template, we present this 5 basic preprocessing steps: 
 
- -Importing libraries
+ - Importing libraries
  
-### -Importing libraries
+### - Importing libraries
